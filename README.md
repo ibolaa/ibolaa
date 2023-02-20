@@ -5,7 +5,7 @@ In industry I want to specialize in Process Control Technologies
 Currently learning Cross Validation of Machine Learning
 Reach me => www.linkedin.com/in/ieryksel
 
-
+"""
             | | .sSs           S | |
             | | .sS' `S.        .S | | .SSSS 
             | | sS'    `S        S'    S | |.S'      
@@ -41,7 +41,7 @@ Reach me => www.linkedin.com/in/ieryksel
 -  ~   -   _     o  ~   `-...______________...-'    ~ _  - o  ~ -  _ \
 ----------------------------------------------------------------------
 ---------------------------------------------------------------------'
-
+"""
 
 
 <!---
